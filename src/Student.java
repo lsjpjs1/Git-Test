@@ -1,5 +1,3 @@
-package movetest;
-
 import java.util.Objects;
 
 public class Student {
