@@ -1,7 +1,7 @@
 import java.util.Objects;
 
 public class Student {
-    int grade;
+    int gradeFileChange;
     int age;
 
     private static final Student THREE_GRADE_STUDENT = new Student(3);
