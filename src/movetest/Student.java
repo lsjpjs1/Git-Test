@@ -1,4 +1,5 @@
-import java.util.Collections;
+package movetest;
+
 import java.util.Objects;
 
 public class Student {
